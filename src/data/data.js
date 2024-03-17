@@ -1,6 +1,7 @@
 import WorkIm from '../assets/projects/workImg.jpeg'
 import RealEst from '../assets/projects/realestate.jpg'
 import Ebook from '../assets/ebook.png'
+import Jss from '../assets/jsss.png'
 export const data=[
     {
         id:1,
@@ -12,9 +13,9 @@ export const data=[
     },
     {
         id:2,
-        name:"To-Do List",
-        image:RealEst,
-        github:"",
+        name:"JavaScript Projects",
+        image:Jss,
+        github:"https://github.com/patelharshshaileshbhai/Study-Material-App",
         live:"",
     },
     {
