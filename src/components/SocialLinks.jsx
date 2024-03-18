@@ -13,7 +13,7 @@ const SocialLinks = () => {
           LinkedIn <FaLinkedin size={30} />
         </>
       ),
-      href: "https://linkedin.com/in/rahulkarda2002",
+      href: "https://www.linkedin.com/in/harsh-patel-5435bb26a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       style: "rounded-tr-md",
     },
     {
@@ -23,7 +23,7 @@ const SocialLinks = () => {
           GitHub <FaGithub size={30} />
         </>
       ),
-      href: "https://github.com/rahulkarda",
+      href: "https://github.com/patelharshshaileshbhai",
     },
     {
       id: 3,
@@ -32,7 +32,7 @@ const SocialLinks = () => {
           Email <HiOutlineMail size={30} />
         </>
       ),
-      href: "mailto:rahulkarda2002@gmail.com",
+      href: "mailto:ph335579@gmailcom",
     },
     // {
     //   id: 4,
@@ -51,7 +51,7 @@ const SocialLinks = () => {
           Twitter <FaTwitter size={30} />
         </>
       ),
-      href: "https://twitter.com/rahulkarda2002",
+      href: "https://x.com/harsh_patel_03?t=EWSFvBR37sqQasn4fkqrLA&s=09",
       style: "rounded-br-md",
     },
   ];
