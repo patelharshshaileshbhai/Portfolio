@@ -41,6 +41,9 @@
 import React from 'react';
 import { HiArrowNarrowRight } from 'react-icons/hi';
 import { Link as ScrollLink } from 'react-scroll';
+import { Link } from "react-scroll";
+import HeroImage from "../assets/heroImage.png";
+import { MdOutlineKeyboardArrowRight } from "react-icons/md";
 
 const Home = () => {
   return (
@@ -69,6 +72,7 @@ const Home = () => {
         </div>
       </div>
     </section>
+    
   );
 };
 
