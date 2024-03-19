@@ -3,6 +3,7 @@ import RealEst from '../assets/projects/realestate.jpg'
 import Ebook from '../assets/ebook.png'
 import Jss from '../assets/jsss.png'
 import FF from '../assets/fastfood.png'
+import TC from '../assets/Tc.jpg'
 export const data=[
     {
         id:1,
@@ -28,10 +29,10 @@ export const data=[
     },
     {
         id:4,
-        name:"React JS Application",
-        image:RealEst,
-        github:"",
-        live:"",
+        name:"Tech Adventure",
+        image:TC,
+        github:"https://github.com/Snehp123/TechAdventure.github.io",
+        live:"https://techad.netlify.app/",
     },
 
 
