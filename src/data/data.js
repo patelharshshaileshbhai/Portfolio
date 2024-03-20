@@ -18,7 +18,7 @@ export const data=[
         name:"JavaScript Projects",
         image:Jss,
         github:"https://github.com/patelharshshaileshbhai/JavaScript-Projects",
-        live:"https://github.com/patelharshshaileshbhai/JavaScript-Projects",
+        live:"https://harsh-javascript-projects.netlify.app/",
     },
     {
         id:3,
