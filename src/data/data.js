@@ -4,6 +4,7 @@ import Ebook from '../assets/ebook.png'
 import Jss from '../assets/jsss.png'
 import FF from '../assets/fastfood.png'
 import TC from '../assets/Tc.jpg'
+import TD from '../assets/todo.jpg'
 export const data=[
     {
         id:1,
@@ -34,6 +35,13 @@ export const data=[
         github:"https://github.com/Snehp123/TechAdventure.github.io",
         live:"https://techad.netlify.app/",
     },
+    {
+        id:4,
+        name:"To-Do App",
+        image:TD,
+        github:"https://github.com/patelharshshaileshbhai/To-Do-App",
+        live:"https://to-do-app-phi-two.vercel.app/",
+    }
 
 
 ]
