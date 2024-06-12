@@ -34,16 +34,16 @@ const SocialLinks = () => {
       ),
       href: "mailto:ph335579@gmailcom",
     },
-    // {
-    //   id: 4,
-    //   child: (
-    //     <>
-    //       Resume <BsFillPersonLinesFill size={30} />
-    //     </>
-    //   ),
-    //   href: resume,
-    //   download: true,
-    // },
+    {
+      id: 4,
+      child: (
+        <>
+          Resume <BsFillPersonLinesFill size={30} />
+        </>
+      ),
+      href: 'https://drive.google.com/file/d/18EDij4HGxs-fNSzcoRNDCJhiF6yY1__z/view',
+      download: true,
+    },
     {
       id: 5,
       child: (
