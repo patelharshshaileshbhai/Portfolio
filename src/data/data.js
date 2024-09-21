@@ -40,7 +40,7 @@ export const data=[
         name:"To-Do App",
         image:TD,
         github:"https://github.com/patelharshshaileshbhai/To-Do-App",
-        live:"https://to-do-app-phi-two.vercel.app/",
+        live:"https://mern-todo-seven-psi.vercel.app/",
     }
 
 
