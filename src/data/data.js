@@ -8,11 +8,11 @@ import TD from '../assets/todo.jpg'
 export const data=[
     {
         id:1,
-        name:"Study Material App",
-        image:Ebook,
-        github:"https://github.com/patelharshshaileshbhai/Study-Material-App",
-        // live:"https://study-material-harsh-patel-it.netlify.app",
-         live:"https://study-material-app.vercel.app/",
+        name:"To-Do App",
+        image:TD,
+        github:"https://github.com/patelharshshaileshbhai/MERN_TODO",
+        live:"https://mern-todo-seven-psi.vercel.app/",
+        
     },
     {
         id:2,
@@ -36,11 +36,12 @@ export const data=[
         live:"https://techad.netlify.app/",
     },
     {
-        id:4,
-        name:"To-Do App",
-        image:TD,
-        github:"https://github.com/patelharshshaileshbhai/To-Do-App",
-        live:"https://mern-todo-seven-psi.vercel.app/",
+        id:5,
+        name:"Study Material App",
+        image:Ebook,
+        github:"https://github.com/patelharshshaileshbhai/Study-Material-App",
+        // live:"https://study-material-harsh-patel-it.netlify.app",
+         live:"https://study-material-app.vercel.app/",
     }
 
 
