@@ -5,6 +5,7 @@ import Jss from '../assets/jsss.png'
 import FF from '../assets/fastfood.png'
 import TC from '../assets/Tc.jpg'
 import TD from '../assets/todo.jpg'
+import MMS from '../assets/mms.jpg'
 export const data=[
     {
         id:1,
@@ -16,27 +17,34 @@ export const data=[
     },
     {
         id:2,
+        name:"Marks Management System",
+        image:MMS,
+        github:"https://github.com/patelharshshaileshbhai/MIDSEM_MERN",
+        live:"https://midsem-mern-55mw.vercel.app/",
+    },
+    {
+        id:3,
         name:"JavaScript Projects",
         image:Jss,
         github:"https://github.com/patelharshshaileshbhai/JavaScript-Projects",
         live:"https://harsh-patel-javascript-projects.netlify.app/",
     },
     {
-        id:3,
+        id:4,
         name:"Food Delivery App",
         image:FF,
         github:"https://github.com/patelharshshaileshbhai/FoodDeliverApp",
         live:"https://food-deliver-app-5h5q.vercel.app/",
     },
     {
-        id:4,
+        id:5,
         name:"Tech Adventure",
         image:TC,
         github:"https://github.com/Snehp123/TechAdventure.github.io",
         live:"https://techad.netlify.app/",
     },
     {
-        id:5,
+        id:6,
         name:"Study Material App",
         image:Ebook,
         github:"https://github.com/patelharshshaileshbhai/Study-Material-App",
