@@ -80,13 +80,13 @@ const Projects = () => {
       <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
         <div className='pb-8 text-align-center'>
           {/* Responsive Flexbox: flex-row for large screens, flex-col for mobile */}
-          <div className='flex flex-col sm:flex-row justify-between items-center'>
-            <p className='text-4xl font-bold inline border-b-4 text-gray-300 border-pink-600'>
+          <div className='flex flex-col sm:flex-row justify-between items-center inline p-4'>
+            <p className='text-4xl font-bold inline border-b-4 text-gray-300 border-pink-600 align-middle'>
               Projects
             </p>
             <a
               href='https://myprojects-mern-harsh.vercel.app/'
-              className='mt-4 sm:mt-0 text-pink-600 hover:text-white transition-all duration-300 underline font-semibold'
+              className='mt-2   sm:mt-0 space-between text-pink-600 hover:text-white transition-all duration-300 underline font-semibold inline' 
             >
               Other Projects
             </a>

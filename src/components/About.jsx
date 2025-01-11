@@ -17,7 +17,7 @@ const About = () => {
               <p>Hi. I'm Harsh Patel, nice to meet you. Please take a look around.</p>
             </div>
             <div>
-              <p className='text-[#8892b0]'>"As a MERN stack learner, I'm passionate about crafting impactful web applications. From individual users to large enterprises, I aim to enhance experiences through software development.With a focus on MERN stack, I aspire to create scalable solutions that positively impact users' lives and drive business success."</p>  
+              <p className='text-[#8892b0]'>"As a dynamic Full Stack Developer, I am dedicated to building secure, high-performance web applications that cater to both individual users and enterprises. With a strong focus on crafting scalable solutions, I aim to enhance user experiences and drive business success through innovative and impactful software development."</p>  
             </div>
           </div>
       </div>
